@@ -141,7 +141,7 @@ https://drive.google.com/file/d/1CSk_wgEstAHhXtKUvN3XhHfs4Vn2Qs1g/view
 
 ## 👨‍💻 Developed By
 
-Mutti Reddy Shalom Vishal  
+Bharath Ontela  
 Sri Venkateswara College of Engineering, Tirupati
 
 ------------------------------------------------------------------------
