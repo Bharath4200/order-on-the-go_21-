@@ -129,7 +129,7 @@ http://localhost:5000/api
 
 ## 🔗 GitHub Repository
 
-https://github.com/shalom-m-vishal/order-on-the-go.git
+https://github.com/Bharath4200/order-on-the-go.git
 
 ------------------------------------------------------------------------
 
