@@ -83,7 +83,7 @@ Backend └── README.md
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/shalom-m-vishal/order-on-the-go.git cd
+git clone https://github.com/Bharath4200/order-on-the-go.git cd
 order-on-the-go
 
 ### 2️⃣ Backend Setup
